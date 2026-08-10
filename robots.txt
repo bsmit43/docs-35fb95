@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-oly8lx.lapinandwolf.co.nz/sitemap.xml
